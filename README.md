@@ -8,3 +8,4 @@
 | Read6     | [Read6](https://saraaltaweel.github.io/read-notes-201/read6) |
 | Read7     | [Read7](https://saraaltaweel.github.io/read-notes-201/read7) |
 | Read8     | [Read8](https://saraaltaweel.github.io/read-notes-201/read8) |
+| Read9     | [Read9](https://saraaltaweel.github.io/read-notes-201/read9) |
